@@ -10,7 +10,7 @@ import { Router } from "@angular/router";
 })
 export class StoreComponent {
     public selectedCategory = null;
-    public productsPerPage = 4;
+    public productsPerPage = 6;
     public selectedPage = 1;
     constructor(private repository: ProductRepository,
         private cart: Cart,
