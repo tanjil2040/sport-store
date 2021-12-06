@@ -6,11 +6,11 @@
 
 ### This page will come first where users can see categories and products
 
-![1](pictures/1.png)
+![1](https://user-images.githubusercontent.com/62055525/144863557-2e8206a7-a1d8-43fe-ba3d-9ed98e6ccbec.PNG)
 
 ### This page will come what users choose from existing categories
 
-![2](pictures/2.png)
+![2](https://user-images.githubusercontent.com/62055525/144863865-b310fc51-24b3-43af-a1a4-ad9131d347e9.PNG)
 
 ### This page will come when users add a particular product on their cart
 
